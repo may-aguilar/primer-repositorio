@@ -8,5 +8,9 @@ Es el primer paso para gestionar proyectos de desarrollo de software utilizando 
 ## Objetivos
 - Aprender a hacer commits y manejar un repositorio Git.
 - Colaborar en proyectos de software de manera eficiente.
+## Tecnologías usadas
+- Git
+- GitHub
+- Markdown
 
 ¡Espero que este proyecto sea el primero de muchos!
