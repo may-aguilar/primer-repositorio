@@ -20,6 +20,17 @@ El propósito de este repositorio es aprender cómo utilizar control de versione
 - Crear nuevas ramas para cada característica.
 - Hacer pull requests y fusionar cambios.
 
+### ¿Cómo usar este repositorio?
+
+1. **Clonar el repositorio**:
+   - Usa `git clone <url-del-repositorio>` para obtener una copia local.
+2. **Crear una nueva rama**:
+   - `git checkout -b nueva-funcionalidad`
+3. **Hacer cambios y crear commits**:
+   - Agregar nuevas características o corregir errores.
+4. **Hacer un Pull Request**:
+   - Proponer cambios a la rama principal del repositorio.
+
 ## ¿Cómo usar este repositorio?
 
 1. Clona el repositorio en tu máquina local.
