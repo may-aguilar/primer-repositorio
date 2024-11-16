@@ -20,4 +20,10 @@ El propósito de este repositorio es aprender cómo utilizar control de versione
 - Crear nuevas ramas para cada característica.
 - Hacer pull requests y fusionar cambios.
 
+## ¿Cómo usar este repositorio?
+
+1. Clona el repositorio en tu máquina local.
+2. Crea una nueva rama para trabajar en una tarea específica.
+3. Realiza tus cambios y haz un **pull request** para revisar y fusionar los cambios.
+
 ¡Espero que este proyecto sea el primero de muchos!
