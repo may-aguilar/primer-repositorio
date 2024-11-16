@@ -12,5 +12,12 @@ Es el primer paso para gestionar proyectos de desarrollo de software utilizando 
 - Git
 - GitHub
 - Markdown
+## Propósito del Proyecto
+
+El propósito de este repositorio es aprender cómo utilizar control de versiones con Git y GitHub, y aplicar buenas prácticas en proyectos de software.
+
+## Tareas futuras
+- Crear nuevas ramas para cada característica.
+- Hacer pull requests y fusionar cambios.
 
 ¡Espero que este proyecto sea el primero de muchos!
